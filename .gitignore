@@ -41,7 +41,7 @@ coverage.xml
 # ---------- PyInstaller 打包产物----------
 *.spec
 *.manifest
-*.exe
+#*.exe
 *.msi
 *.dmg
 *.pkg
