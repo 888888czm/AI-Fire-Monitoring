@@ -108,8 +108,8 @@ MIT 许可证是附条件的著作权许可合同。使用者下载、安装、�
 
 本声明任何条款被认定为无效或不可执行的，不影响其余条款的效力。该无效条款应在最大范围内被解释为符合其原意的有效条款。
 ## 五、 快速使用
-Windows用户直接点击AI-Fire-Monitoring.py文件（用Python/Pycharm打开）即可，可以用它生成.exe文件再运行即可。
-
+方法一：Windows用户直接点击AI-Fire-Monitoring.py文件（用Python/Pycharm打开）即可，
+方法二：Windows用户可直接点开带有.exe文件即可。
 ---
 
 **最后更新：2026 年**
